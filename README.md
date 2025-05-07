@@ -10,6 +10,5 @@
 
 # Info:
 
-- **Youtube: https://youtube.com/@0xmrjoex**
 - **WebSite: https://guns.lol/0xmrjoex**
 
